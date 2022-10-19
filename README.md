@@ -10,6 +10,24 @@
 * [Live Preview](https://dak79.github.io/odin-recipes/)
 * [Repo](https://github.com/dak79/odin-recipes)
 
+## Landing Page - The Odin Project - Foundation Course
+
+## Rock Paper Scissor - The Odin Project - Foundation Course
+
+## Etch-a-Sketch - The Odin Project - Foundation Course
+
+## Calculator - The Odin Project - Foundation Course
+
+## Sign-up Form - The Odin Project - Full Stack JavaScript Course - Intermediate HTML and CSS
+
+## Admin Dashboard - The Odin Project - Full Stack JavaScript Course - Intermediate HTML and CSS
+
+## Library - The Odin Project - Full Stack JavaScript Course - JavaScript
+
+## Tic Tac Toe - The Odin Project - Full Stack JavaScript Course - JavaScript
+
+## Restaurant Page - The Odin Project - Full Stack JavaScript Course - JavaScript
+
 
 
 <!---
