@@ -44,7 +44,7 @@
 * [Repo](https://github.com/dak79/odin-tic-tac-toe)
 
 ## Restaurant Page - The Odin Project - Full Stack JavaScript Path - JavaScript
-* [Live Preview]
+* [Live Preview](https://dak79.github.io/odin-restaurant-page/)
 * [Repo](https://github.com/dak79/odin-restaurant-page)
 
 
