@@ -1,10 +1,11 @@
+# About Me
 - 👋 Hi, I’m @dak79
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning on The Odin Project - JavaScript Fullstack path
 - 💞️ I’m looking to collaborate on web application and web development in general
 - 📫 How to reach me danielecampari@gmail.com
 
-# Portfolio (Under Construction) 🚧
+# Portfolio
 
 ## Recipes - The Odin Project - Foundations Path
 * [Live Preview](https://dak79.github.io/odin-recipes/)
