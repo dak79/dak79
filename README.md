@@ -6,23 +6,23 @@
 
 # Portfolio (Under Construction) 🚧
 
-## Recipes - The Odin Project - Foundation Course
+## Recipes - The Odin Project - Foundations Path
 * [Live Preview](https://dak79.github.io/odin-recipes/)
 * [Repo](https://github.com/dak79/odin-recipes)
 
-## Landing Page - The Odin Project - Foundation Course
+## Landing Page - The Odin Project - Foundations Path
 * [Live Preview](https://dak79.github.io/odin-landing/)
 * [Repo](https://github.com/dak79/odin-landing)
 
-## Rock Paper Scissor - The Odin Project - Foundation Course
+## Rock Paper Scissor - The Odin Project - Foundations Path
 * [Live Preview](https://dak79.github.io/odin-rock/)
 * [Repo](https://github.com/dak79/odin-rock)
 
-## Etch-a-Sketch - The Odin Project - Foundation Course
+## Etch-a-Sketch - The Odin Project - Foundations Path
 * [Live Preview](https://dak79.github.io/odin-etch-a-sketch/)
 * [Repo](https://github.com/dak79/odin-etch-a-sketch)
 
-## Calculator - The Odin Project - Foundation Course
+## Calculator - The Odin Project - Foundations Path
 * [Live Preview](https://dak79.github.io/odin-calculator/)
 * [Repo](https://github.com/dak79/odin-calculator)
 
