@@ -26,23 +26,23 @@
 * [Live Preview](https://dak79.github.io/odin-calculator/)
 * [Repo](https://github.com/dak79/odin-calculator)
 
-## Sign-up Form - The Odin Project - Full Stack JavaScript Course - Intermediate HTML and CSS
+## Sign-up Form - The Odin Project - Full Stack JavaScript Path - Intermediate HTML and CSS
 * [Live Preview](https://dak79.github.io/odin-sign-up-form/)
 * [Repo](https://github.com/dak79/odin-sign-up-form)
 
-## Admin Dashboard - The Odin Project - Full Stack JavaScript Course - Intermediate HTML and CSS
+## Admin Dashboard - The Odin Project - Full Stack JavaScript Path - Intermediate HTML and CSS
 * [Live Preview](https://dak79.github.io/odin-admin-dashboard/)
 * [Repo](https://github.com/dak79/odin-admin-dashboard)
 
-## Library - The Odin Project - Full Stack JavaScript Course - JavaScript
+## Library - The Odin Project - Full Stack JavaScript Path - JavaScript
 * [Live Preview](https://dak79.github.io/odin-library/)
 * [Repo](https://github.com/dak79/odin-library)
 
-## Tic Tac Toe - The Odin Project - Full Stack JavaScript Course - JavaScript
+## Tic Tac Toe - The Odin Project - Full Stack JavaScript Path - JavaScript
 * [Live Preview](https://dak79.github.io/odin-tic-tac-toe/)
 * [Repo](https://github.com/dak79/odin-tic-tac-toe)
 
-## Restaurant Page - The Odin Project - Full Stack JavaScript Course - JavaScript
+## Restaurant Page - The Odin Project - Full Stack JavaScript Path - JavaScript
 * [Live Preview]
 * [Repo](https://github.com/dak79/odin-restaurant-page)
 
