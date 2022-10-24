@@ -8,7 +8,7 @@
 # Portfolio
 
 ## Restaurant Page
-Npm, Webpack, Module ES6
+Npm, Webpack, Module ES6  
 The Odin Project - Full Stack JavaScript Path - JavaScript
 * [Live Preview](https://dak79.github.io/odin-restaurant-page/)
 * [Repo](https://github.com/dak79/odin-restaurant-page)
