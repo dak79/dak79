@@ -7,6 +7,12 @@
 
 # Portfolio
 
+## To-Do App
+The Odin Project - Full Stack JavaScript Path - JavaScript  
+Npm, Webpack, ES6 Classes, code-design.
+* [Live Preview](https://dak79.github.io/odin-todo/)
+* [Repo](https://github.com/dak79/odin-todo)
+
 ## Restaurant Page
 The Odin Project - Full Stack JavaScript Path - JavaScript  
 Npm, Webpack, Module ES6
