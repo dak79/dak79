@@ -8,8 +8,8 @@
 # Portfolio
 
 ## Weather App
-The Odin Project - Full Stack JavaScript Path - JavaScript 
-Javascript ES6, promises, fetch API, API
+The Odin Project - Full Stack JavaScript Path - JavaScript
+Javascript ES6, promises, fetch API, API.
 - [Live Preview](https://dak79.github.io/odin-weather/)
 - [Repo](https://github.com/dak79/odin-weather)
 
