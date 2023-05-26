@@ -7,6 +7,22 @@
 
 # Portfolio
 
+## Binary Search Trees
+The Odin Project - Full Stack JavaScript Path - JavaScript
+Algorithm, Data Structures, Queque, Binary Trees, Breadth-first traversal, 
+Depth-first traversal, Factory Functions  
+-[Repo](https://github.com/dak79/odin-BinarySearchTree)  
+
+## Linked List  
+The Odin Project - Full Stack JavaScript Path - JavaScript  
+Algorithm, Data Structures, Linked List, Factory Functions  
+- [Repo](https://github.com/dak79/odin-linkedLists)  
+
+## Recursion  
+The Odin Project - Full Stack JavaScript Path - JavaScript  
+Algorithm, Recursion, Merge Sort Algorithm  
+- [Repo](https://github.com/dak79/odin-recursion)  
+
 ## Weather App
 The Odin Project - Full Stack JavaScript Path - JavaScript  
 Javascript ES6, promises, fetch API, API.
