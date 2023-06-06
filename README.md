@@ -6,6 +6,10 @@
 - 📫 How to reach me danielecampari@gmail.com
 
 # Portfolio
+## Knights Travails  
+The Odin Project - Full Stack JavaScript Path - JavaScript  
+Algorithm, Data Structuresj, Queque, Graph, Breadth-First Traversal, Factory Functions  
+- [Repo](https://github.com/dak79/odin-knightsTravails)  
 
 ## Binary Search Trees
 The Odin Project - Full Stack JavaScript Path - JavaScript
