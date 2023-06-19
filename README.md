@@ -6,6 +6,11 @@
 - 📫 How to reach me danielecampari@gmail.com
 
 # Portfolio
+## Testing Practice
+The Odin Project - Full Stack JavaScript Path - JavaScript  
+Testing, Jest, Test Driven Development  
+- [Repo](https://github.com/dak79/odin-testing-practice)
+
 ## Knights Travails  
 The Odin Project - Full Stack JavaScript Path - JavaScript  
 Algorithm, Data Structures, Queque, Graph, Breadth-First Traversal, Factory Functions  
