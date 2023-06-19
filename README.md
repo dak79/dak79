@@ -17,7 +17,7 @@ Algorithm, Data Structures, Queque, Graph, Breadth-First Traversal, Factory Func
 - [Repo](https://github.com/dak79/odin-knightsTravails)  
 
 ## Binary Search Trees
-The Odin Project - Full Stack JavaScript Path - JavaScript
+The Odin Project - Full Stack JavaScript Path - JavaScript  
 Algorithm, Data Structures, Queque, Binary Trees, Breadth-first traversal, 
 Depth-first traversal, Factory Functions  
 - [Repo](https://github.com/dak79/odin-BinarySearchTree)  
