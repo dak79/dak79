@@ -6,6 +6,12 @@
 - 📫 How to reach me danielecampari@gmail.com
 
 # Portfolio
+## Battleship
+This project is part of The Odin Project - Full Stack JavaScript Path.  
+Testsing, Jest, Test Driven Development  
+- [Live Preview](https://dak79.github.io/odin-battleship/)
+- [Repo](https://github.com/dak79/odin-battleship)
+  
 ## Testing Practice
 The Odin Project - Full Stack JavaScript Path - JavaScript  
 Testing, Jest, Test Driven Development  
